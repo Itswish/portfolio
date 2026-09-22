@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# EDIT THIS: Replace with your final deployed GitHub Pages URL
+Sitemap: https://YOUR_DOMAIN/sitemap.xml
